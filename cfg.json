@@ -1,0 +1,790 @@
+{
+    "current_profile": "fuzhu",
+    "profiles": {
+        "fuzhu": {
+            "About": {
+                "IsFirstTime": false
+            },
+            "Auto Seelie": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "AutoChallenge": {
+                "BombDestroy": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 25.200000762939453
+            },
+            "AutoDestroy": {
+                "DestroyOres": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyPlants": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 15.0
+            },
+            "AutoFish": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoLoot": {
+                "AutoDisablePickupWhenAddItemExceedLimit": {
+                    "toggled": false,
+                    "value": null
+                },
+                "AutoPickup": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UseCustomRange": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "AutoSelectDialog": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "FastDialog": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTreeFarm": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "ConstellationModifier": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "CustomTeleports": {
+                "Auto": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Interpolate": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Next": 34,
+                "Previous": 33
+            },
+            "FlycloakModifer": {
+                "FlycloakType": {
+                    "name": "Descension",
+                    "value": 2
+                }
+            },
+            "FlycloakModifier": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "GameSpeed": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Hotkey": 72
+            },
+            "General": {
+                "FPS": {
+                    "FpsShow": false
+                },
+                "FastExit": {
+                    "FastExitEnable": true
+                },
+                "InfoWindow": {
+                    "InfoMove": false,
+                    "InfoShow": false
+                },
+                "Logging": {
+                    "ConsoleLogging": false
+                },
+                "MenuKey": 36,
+                "SelectedModule": 1,
+                "StatusWindow": {
+                    "StatusMove": false,
+                    "StatusShow": false
+                }
+            },
+            "GodMode": {
+                "Conditional": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MinHealth": 30.200000762939453
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "InteractiveMap": {
+                "SeparatedWindows": false
+            },
+            "KillAura": {
+                "DamageMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": 6
+                },
+                "OnlyTargeted": false,
+                "PercentDamageMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PercentDamageTimes": 1,
+                "Range": 50.29999923706055
+            },
+            "MapTeleport": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "InstantBow": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Sprint": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoClip": {
+                "AntiDragBack": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": false,
+                    "value": 5
+                },
+                "NoAnimation": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Speed": 21.0
+            },
+            "OpenTeam": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "QuestTeleport": {
+                "Key": 86,
+                "QuestTP": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "RapidFire": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MultiHit": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Randomize": {
+                    "toggled": true,
+                    "value": null
+                },
+                "maxMultiplier": 5,
+                "minMultiplier": 2
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            },
+            "SkipEnhanceAnimation": {
+                "Enabled": true
+            },
+            "VacuumLoot": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Plant": {
+                        "Sunsettia": false
+                    }
+                },
+                "MobDropRadius": 50.099998474121094,
+                "Radius": 50.0
+            },
+            "Visuals": {
+                "AnimationChanger": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "EnablePeeking": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                },
+                "FPSUnlocker": {
+                    "Enabled": true,
+                    "Fps": 60,
+                    "FpsLimit": 10,
+                    "Limit": true
+                },
+                "HideUI": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "PaimonFollow": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    }
+                },
+                "ProfileChanger": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    },
+                    "UID": {
+                        "toggled": true,
+                        "value": "<color=#fff500>S</color><color=#d5f707>k</color><color=#aaf80e>y</color><color=#80fa15>l</color><color=#55fc1b>e</color><color=#2bfd22>r</color>"
+                    },
+                    "UIDpos_x": 1914.0,
+                    "UIDsize": 15
+                }
+            }
+        },
+        "lianji": {
+            "About": {
+                "IsFirstTime": false
+            },
+            "ConstellationModifier": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "General": {
+                "FPS": {
+                    "FpsShow": false
+                },
+                "FastExit": {
+                    "FastExitEnable": true
+                },
+                "InfoWindow": {
+                    "InfoMove": false,
+                    "InfoShow": false
+                },
+                "Logging": {
+                    "ConsoleLogging": false
+                },
+                "MenuKey": 36,
+                "SelectedModule": 7,
+                "StatusWindow": {
+                    "StatusMove": false,
+                    "StatusShow": false
+                }
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Sprint": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            },
+            "Visuals": {
+                "ProfileChanger": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    },
+                    "UID": {
+                        "toggled": true,
+                        "value": "<color=#ff0000>小</color><color=#FFA500>狗</color>"
+                    },
+                    "UIDpos_x": 1915.0
+                }
+            }
+        },
+        "xiaohao": {
+            "About": {
+                "IsFirstTime": false
+            },
+            "Auto Seelie": {
+                "Enabled": {
+                    "toggled": false,
+                    "value": null
+                }
+            },
+            "AutoChallenge": {
+                "BombDestroy": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 25.200000762939453
+            },
+            "AutoDestroy": {
+                "DestroyOres": {
+                    "toggled": true,
+                    "value": null
+                },
+                "DestroyPlants": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Range": 15.0
+            },
+            "AutoFish": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoLoot": {
+                "AutoPickup": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UseCustomRange": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTalk": {
+                "AutoSelectDialog": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "FastDialog": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "AutoTreeFarm": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "ConstellationModifier": {
+                "Albedo": true,
+                "Alhatham": true,
+                "Aloy": true,
+                "Ambor": true,
+                "Ayaka": true,
+                "Ayato": true,
+                "Barbara": true,
+                "Beidou": true,
+                "Bennett": true,
+                "Candace": true,
+                "Chongyun": true,
+                "Collei": true,
+                "Cyno": true,
+                "Dehya": true,
+                "Diluc": true,
+                "Diona": true,
+                "Dori": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Eula": true,
+                "Faruzan": true,
+                "Feiyan": true,
+                "Fischl": true,
+                "Ganyu": true,
+                "Gorou": true,
+                "Heizo": true,
+                "Hutao": true,
+                "Itto": true,
+                "Jean": true,
+                "Kaeya": true,
+                "Kazuha": true,
+                "Keqing": true,
+                "Klee": true,
+                "Kokomi": true,
+                "Layla": true,
+                "Lisa": true,
+                "Mika": true,
+                "Mona": true,
+                "Nahida": true,
+                "Nilou": true,
+                "Ningguang": true,
+                "Noel": true,
+                "Qiqi": true,
+                "Razor": true,
+                "Rosaria": true,
+                "Sara": true,
+                "Sayu": true,
+                "Shenhe": true,
+                "Shinobu": true,
+                "Shougun": true,
+                "Sucrose": true,
+                "Tartaglia": true,
+                "Tighnari": true,
+                "Tohma": true,
+                "Venti": true,
+                "Wanderer": true,
+                "Xiangling": true,
+                "Xiao": true,
+                "Xingqiu": true,
+                "Xinyan": true,
+                "Yae": true,
+                "Yaoyao": true,
+                "Yelan": true,
+                "Yoimiya": true,
+                "Yunjin": true,
+                "Zhongli": true
+            },
+            "CustomTeleports": {
+                "Auto": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Interpolate": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Next": 34,
+                "Previous": 33
+            },
+            "FlycloakModifer": {
+                "FlycloakType": {
+                    "name": "Descension",
+                    "value": 2
+                }
+            },
+            "FlycloakModifier": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "GameSpeed": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Hotkey": 72
+            },
+            "General": {
+                "FPS": {
+                    "FpsShow": false
+                },
+                "FastExit": {
+                    "FastExitEnable": true
+                },
+                "InfoWindow": {
+                    "InfoMove": false,
+                    "InfoShow": false
+                },
+                "Logging": {
+                    "ConsoleLogging": false
+                },
+                "MenuKey": 36,
+                "SelectedModule": 6,
+                "StatusWindow": {
+                    "StatusMove": false,
+                    "StatusShow": false
+                }
+            },
+            "GodMode": {
+                "Conditional": true,
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MinHealth": 30.100000381469727
+            },
+            "InfiniteStamina": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PacketReplacement": true
+            },
+            "InteractiveMap": {
+                "SeparatedWindows": false
+            },
+            "KillAura": {
+                "DamageMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": true,
+                    "value": 6
+                },
+                "OnlyTargeted": false,
+                "PercentDamageMode": {
+                    "toggled": true,
+                    "value": null
+                },
+                "PercentDamageTimes": 1,
+                "Range": 50.29999923706055
+            },
+            "MapTeleport": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoCD": {
+                "AbilityReduce": {
+                    "toggled": true,
+                    "value": null
+                },
+                "InstantBow": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Sprint": {
+                    "toggled": true,
+                    "value": null
+                },
+                "UtimateMaxEnergy": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "NoClip": {
+                "AntiDragBack": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Enabled": {
+                    "toggled": false,
+                    "value": 5
+                },
+                "NoAnimation": {
+                    "toggled": false,
+                    "value": null
+                },
+                "Speed": 21.0
+            },
+            "OpenTeam": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "QuestTeleport": {
+                "Key": 86,
+                "QuestTP": {
+                    "toggled": true,
+                    "value": null
+                }
+            },
+            "RapidFire": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "MultiHit": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Randomize": {
+                    "toggled": true,
+                    "value": null
+                },
+                "maxMultiplier": 5,
+                "minMultiplier": 2
+            },
+            "Settings": {
+                "Language": {
+                    "Language": "SimplifiedChinese"
+                }
+            },
+            "SkipEnhanceAnimation": {
+                "Enabled": true
+            },
+            "VacuumLoot": {
+                "Enabled": {
+                    "toggled": true,
+                    "value": null
+                },
+                "Filters": {
+                    "Plant": {
+                        "Sunsettia": false
+                    }
+                },
+                "MobDropRadius": 50.099998474121094,
+                "Radius": 50.0
+            },
+            "Visuals": {
+                "AnimationChanger": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "EnablePeeking": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "FPSUnlocker": {
+                    "Enabled": true,
+                    "Fps": 60,
+                    "FpsLimit": 10,
+                    "Limit": true
+                },
+                "HideUI": {
+                    "Enabled": {
+                        "toggled": false,
+                        "value": null
+                    }
+                },
+                "ProfileChanger": {
+                    "Enabled": {
+                        "toggled": true,
+                        "value": null
+                    },
+                    "UID": {
+                        "toggled": true,
+                        "value": "<color=#ff0000>小</color><color=#FFA500>狗</color>"
+                    },
+                    "UIDpos_x": 1914.0,
+                    "UIDsize": 15
+                }
+            }
+        }
+    },
+    "shared": {
+        "General": {
+            "Multi-Account": {
+                "AccConfig": {
+                    "accounts": [
+                        [
+                            115042181,
+                            {
+                                "nickName": "旅行者·天梦",
+                                "userID": 115042181
+                            }
+                        ],
+                        [
+                            268919987,
+                            {
+                                "nickName": "sticky",
+                                "userID": 268919987
+                            }
+                        ]
+                    ],
+                    "id2Profiles": [
+                        [
+                            115042181,
+                            "fuzhu"
+                        ],
+                        [
+                            268919987,
+                            "xiaohao"
+                        ]
+                    ],
+                    "pseudos": [
+                        [
+                            115042181,
+                            "旅行者·天梦"
+                        ],
+                        [
+                            268919987,
+                            "sticky"
+                        ]
+                    ]
+                }
+            }
+        },
+        "InteractiveMap": {
+            "LastUserID": 115042181
+        },
+        "PatternScanner": {
+            "m_CheckSumTimestamp": {
+                "UnityPlayer.dll": 133178221660000000,
+                "UserAssembly.dll": 133178221660000000
+            }
+        }
+    }
+}
